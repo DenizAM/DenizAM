@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Hola buen día!!!
 
 
 - 🔭 I’m currently working on my own business
@@ -9,3 +10,4 @@
 - 📫 How to reach me: DenizAM
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm new in the develeopment web
+- Adiós...
